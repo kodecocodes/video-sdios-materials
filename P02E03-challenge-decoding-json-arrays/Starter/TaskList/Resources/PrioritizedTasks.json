@@ -1,0 +1,72 @@
+[
+  {
+    "priority": "high",
+    "tasks": [
+      {
+        "id": "FEB26D05-FAD8-445A-B2F4-95635408004B",
+        "name": "Code a SwiftUI app",
+        "completed": false
+      },
+      {
+        "id": "AD72E07A-3C33-4B76-B8C6-D91EE03C8313",
+        "name": "Book an escape room",
+        "completed": false
+      },
+      {
+        "id": "69F79CAC-36F9-4911-BC98-1EDB2A3D7ABC",
+        "name": "Walk the cat",
+        "completed": false
+      },
+      {
+        "id": "E854E222-D22B-4D94-95B0-85F8A417E51B",
+        "name": "Pick up heavy things and put them down",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "priority": "medium",
+    "tasks": [
+      {
+        "id": "0B74A101-C7AA-41FD-B56A-1C6410DF0E71",
+        "name": "Make karaoke playlist",
+        "completed": false
+      },
+      {
+        "id": "D80BEEF4-5156-4501-A1B8-05ADFA0E1534",
+        "name": "Present at iOS meetup group",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "priority": "low",
+    "tasks": [
+      {
+        "id": "A531644A-202D-42A9-A442-D08CAE0E425C",
+        "name": "Climb El Capitan",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "priority": "no",
+    "tasks": [
+      {
+        "id": "3048C57C-561E-45A9-BBB5-99B932020F50",
+        "name": "Learn to make baklava",
+        "completed": false
+      },
+      {
+        "id": "0288E42D-DD40-46C0-AC29-51CAC4082FAA",
+        "name": "Play disc golf in every state",
+        "completed": true
+      },
+      {
+        "id": "59FC2BAD-E850-499A-AE6A-534DC72F3BE9",
+        "name": "100 movie reboot marathon",
+        "completed": false
+      }
+    ]
+  }
+]

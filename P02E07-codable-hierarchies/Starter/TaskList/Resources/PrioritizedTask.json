@@ -1,0 +1,25 @@
+{
+  "priority": "high",
+  "tasks": [
+    {
+      "id": "FEB26D05-FAD8-445A-B2F4-95635408004B",
+      "name": "Code a SwiftUI app",
+      "completed": false
+    },
+    {
+      "id": "AD72E07A-3C33-4B76-B8C6-D91EE03C8313",
+      "name": "Book an escape room",
+      "completed": false
+    },
+    {
+      "id": "69F79CAC-36F9-4911-BC98-1EDB2A3D7ABC",
+      "name": "Walk the cat",
+      "completed": false
+    },
+    {
+      "id": "E854E222-D22B-4D94-95B0-85F8A417E51B",
+      "name": "Pick up heavy things and put them down",
+      "completed": false
+    }
+  ]
+}

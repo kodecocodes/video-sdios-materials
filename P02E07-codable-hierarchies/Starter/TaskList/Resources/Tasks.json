@@ -1,0 +1,22 @@
+[
+  {
+    "id": "50D57E64-689F-4EB4-804E-7217C9EFE24F",
+    "name": "Code a SwiftUI app",
+    "completed": false
+  },
+  {
+    "id": "331BF68C-39A5-43A0-9057-52749C6F8519",
+    "name": "Book an escape room",
+    "completed": false
+  },
+  {
+    "id": "603C0423-1064-4703-9388-31899B0D4A96",
+    "name": "Walk the cat",
+    "completed": false
+  },
+  {
+    "id": "68BAB42E-C4AC-4177-9027-DCB4923E68E2",
+    "name": "Pick up heavy things and put them down",
+    "completed": true
+  }
+]
